@@ -1,0 +1,10 @@
+name: rcnn_project
+
+channels:
+  - defaults
+
+dependencies: 
+  - python=3.11.5
+  - numpy
+  - opencv
+  - pytorch
